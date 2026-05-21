@@ -1,0 +1,52 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution and build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Logs
+logs/*
+!logs/.gitkeep
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
