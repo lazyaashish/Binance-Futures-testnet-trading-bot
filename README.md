@@ -198,6 +198,8 @@ logs/trading_bot_YYYYMMDD.log
 
 File logs include DEBUG-level request and response details. Console logs only show warnings and errors so the CLI output stays readable.
 
+This repository includes `logs/sample_market_limit_orders.log` as a mock sample showing the expected log format for one Market order and one Limit order. It is not evidence of a live testnet execution.
+
 Security notes:
 
 - API signatures are redacted from request logs.
