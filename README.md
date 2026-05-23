@@ -186,7 +186,7 @@ Run the unit tests:
 pytest tests/ -v
 ```
 
-The tests cover validation, request signing, network error handling, API error wrapping, and order payload construction. They do not require live Binance credentials.
+The tests cover validation, request signing, network error handling, API error wrapping, and order payload construction. They don't require live Binance credentials.
 
 ## Logging
 
@@ -198,7 +198,7 @@ logs/trading_bot_YYYYMMDD.log
 
 File logs include DEBUG-level request and response details. Console logs only show warnings and errors so the CLI output stays readable.
 
-This repository includes `logs/sample_market_limit_orders.log` as a mock sample showing the expected log format for one Market order and one Limit order. It is not evidence of a live testnet execution.
+This repository includes `logs/sample_market_limit_orders.log` as a mock sample showing the expected log format for one Market order and one Limit order. It's not evidence of a live testnet execution.
 
 Security notes:
 
