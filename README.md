@@ -214,8 +214,7 @@ The app handles:
 - Invalid input such as bad side, unsupported order type, non-positive quantity, or missing limit price
 - Binance API errors with returned code and message
 - Network failures and timeouts
-- Unexpected exceptions, with full details written to the log file
-
+- Unexpected exceptions, with full details written in log files
 ## Assumptions
 
 - This app is for Binance USDT-M Futures Testnet only, not live trading.
