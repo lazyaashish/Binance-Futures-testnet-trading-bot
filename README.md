@@ -221,7 +221,7 @@ The app handles:
 - Quantities and prices are validated as positive numbers locally. Exchange-specific precision, step-size, and min-notional rules are enforced by Binance.
 - Stop-Limit uses Binance Futures order type `STOP` under the hood.
 - `timeInForce` defaults to `GTC` for Limit and Stop-Limit orders.
-- Testnet balances are virtual and may  reset periodically.
+- Testnet balances are virtual
 
 ## License
 
