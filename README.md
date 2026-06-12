@@ -31,7 +31,7 @@ trading_bot/
 1. Open [https://testnet.binancefuture.com](https://testnet.binancefuture.com).
 2. Sign in with your GitHub account.
 3. Open **API Key** from the top-right menu.
-4. Generate an API key and secret. Copy the secret immediately because it is only shown once.
+4. Generate an API key and secret. Copy the secret immediately.
 
 This app always targets:
 
