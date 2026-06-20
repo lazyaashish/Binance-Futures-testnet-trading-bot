@@ -2,7 +2,7 @@
 
 A lightweight Python CLI app for placing orders on the Binance USDT-M Futures Testnet.
 
-It supports Market, Limit, and Stop-Limit orders, validates CLI input, logs API requests and responses, and separates the REST client from order and command-line logic.
+It supports Market, Limit, and Stop-Limit orders, validates CLI input, logs API requests and responses, also separates the REST client from order and command-line logic.
 
 ## Project Structure
 
